@@ -1,0 +1,10 @@
+.background {
+  /* background-image: url('../../images/shubham-sharan-Z-fq3wBVfMU-unsplash\ \(1\).jpg'); */
+  background: linear-gradient(rgba(80, 1, 80, 0.8), rgba(44, 44, 44, 0.8)), url('../../images/thought-catalog-505eectW54k-unsplash\ \(1\).jpg');
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-top: -100px;
+
+}
